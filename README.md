@@ -1,5 +1,5 @@
 # Awesome-Shadow-Removal
-Collection of recent shadow removal works. Questions and discussions are most welcome!
+Collection of recent shadow removal works. Questions and discussions are most welcome! Upcoming works will be updated on a regular basis, feel free to contact me to add...
 
 ## Papers and Codes
 
