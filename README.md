@@ -58,7 +58,7 @@ Collection of recent shadow removal works. Questions and discussions are most we
 
 * ISTD [[link]](https://github.com/DeepInsight-PCALab/ST-CGAN)
 * ISTD+ [[link]](https://github.com/cvlab-stonybrook/SID)
-* SRD (please email the [authors](https://openaccess.thecvf.com/content_cvpr_2017/papers/Qu_DeshadowNet_A_Multi-Context_CVPR_2017_paper.pdf) to get assess).
+* SRD (please email the [authors](https://openaccess.thecvf.com/content_cvpr_2017/papers/Qu_DeshadowNet_A_Multi-Context_CVPR_2017_paper.pdf) to get assess)
 * USR: Unpaired Shadow Removal Dataset [[link]](https://drive.google.com/file/d/1PPAX0W4eyfn1cUrb2aBefnbrmhB1htoJ/view)
 
 ## Metrics
