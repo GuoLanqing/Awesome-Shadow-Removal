@@ -1,6 +1,7 @@
 # Awesome-Shadow-Removal
 
 
+## Papers and Codes
 
 ### Supervised-Deep-Learning Algorithm 
 
@@ -42,14 +43,14 @@
 
 [CVPR2020] BEDSR-Net: A Deep Shadow Removal Network From a Single Document Image [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Lin_BEDSR-Net_A_Deep_Shadow_Removal_Network_From_a_Single_Document_CVPR_2020_paper.html)
 
-### Commonly Used Dataset
+## Datasets
 
 * ISTD 
 * ISTD+
 * SRD
 * USR
 
-### Commonly Used Image Quality Metrics
+## Metrics
 
  * RMSE
  * PSNR (Peak Signal-to-Noise Ratio) [[Wiki]](https://en.wikipedia.org/wiki/Peak_signal-to-noise_ratio) [[Matlab Code]](https://www.mathworks.com/help/images/ref/psnr.html) [[Python Code]](https://github.com/aizvorski/video-quality)
