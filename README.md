@@ -1,5 +1,5 @@
 # Awesome-Shadow-Removal
-
+Collection of recent shadow removal works. Questions and discussions are most welcome!
 
 ## Papers and Codes
 
@@ -19,22 +19,23 @@
 
 ### Weakly-Supervised-Deep-Learning Algorithm 
 
-[ICCV2019] Mask-ShadowGAN: Learning to Remove Shadows from Unpaired Data [[Paper]](https://arxiv.org/abs/1903.10683) [[Code]](https://github.com/xw-hu/Mask-ShadowGAN)
+* `ICCV2019` Mask-ShadowGAN: Learning to Remove Shadows from Unpaired Data [[Paper]](https://arxiv.org/abs/1903.10683) [[Code]](https://github.com/xw-hu/Mask-ShadowGAN)
 
-[ECCV2020] From Shadow Segmentation to Shadow Removal [[Paper]](https://arxiv.org/pdf/2008.00267.pdf) [[Code]](https://github.com/lmhieu612/FSS2SR)
+* `ECCV2020` From Shadow Segmentation to Shadow Removal [[Paper]](https://arxiv.org/pdf/2008.00267.pdf) [[Code]](https://github.com/lmhieu612/FSS2SR)
 
-[TIP2021] Shadow Removal by a Lightness-Guided Network With Training on Unpaired Data [[Paper]](https://ieeexplore.ieee.org/abstract/document/9318562) [[Code]](https://github.com/hhqweasd/LG-ShadowNet)
+* `TIP2021` Shadow Removal by a Lightness-Guided Network With Training on Unpaired Data [[Paper]](https://ieeexplore.ieee.org/abstract/document/9318562) [[Code]](https://github.com/hhqweasd/LG-ShadowNet)
 
 ### Unsupervised-Deep-Learning Algorithm
 
-[CVPR2021] From Shadow Generation to Shadow Removal [[Paper]](https://arxiv.org/pdf/2103.12997v1.pdf) [[Code]](https://github.com/hhqweasd/G2R-ShadowNet)
+* `CVPR2021` From Shadow Generation to Shadow Removal [[Paper]](https://arxiv.org/pdf/2103.12997v1.pdf) [[Code]](https://github.com/hhqweasd/G2R-ShadowNet)
 
 
 ### Shadow Generation
 
-[AAAI2020] Towards Ghost-Free Shadow Removal via Dual Hierarchical Aggregation Network and Shadow Matting GAN [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6695) [[Code]](https://github.com/vinthony/ghost-free-shadow-removal)
+* `AAAI2020` Towards Ghost-Free Shadow Removal via Dual Hierarchical Aggregation Network and Shadow Matting GAN [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6695) [[Code]](https://github.com/vinthony/ghost-free-shadow-removal)
 
-[CVPR2021] From Shadow Generation to Shadow Removal [[Paper]](https://arxiv.org/pdf/2103.12997v1.pdf) [[Code]](https://github.com/hhqweasd/G2R-ShadowNet)
+
+* `CVPR2021` From Shadow Generation to Shadow Removal [[Paper]](https://arxiv.org/pdf/2103.12997v1.pdf) [[Code]](https://github.com/hhqweasd/G2R-ShadowNet)
 
 
 ### Application
@@ -52,7 +53,7 @@
 
 ## Metrics
 
- * RMSE
+ * RMSE (Root-Mean-Square Error) [[Wiki]](https://en.wikipedia.org/wiki/Root-mean-square_deviation) 
  * PSNR (Peak Signal-to-Noise Ratio) [[Wiki]](https://en.wikipedia.org/wiki/Peak_signal-to-noise_ratio) [[Matlab Code]](https://www.mathworks.com/help/images/ref/psnr.html) [[Python Code]](https://github.com/aizvorski/video-quality)
  * SSIM (Structural similarity) [[Wiki]](https://en.wikipedia.org/wiki/Structural_similarity) [[Matlab Code]](http://www.cns.nyu.edu/~lcv/ssim/ssim_index.m) [[Python Code]](https://github.com/aizvorski/video-quality/blob/master/ssim.py)
  * NIQE (Naturalness Image Quality Evaluator) [[Web]](http://live.ece.utexas.edu/research/Quality/nrqa.htm) [[Matlab Code]](http://live.ece.utexas.edu/research/Quality/nrqa.htm) [[Python Code]](https://github.com/aizvorski/video-quality/blob/master/niqe.py)
