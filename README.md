@@ -47,7 +47,7 @@ Collection of recent shadow removal works. Questions and discussions are most we
 
 ### Application
 
-* `ICASSP2020` Shadow removal of text document images by estimating local and global background colors 
+* `ICASSP2020` Shadow removal of text document images by estimating local and global background colors [[Paper]](https://ieeexplore.ieee.org/document/9053378)
 
 * `CVPR2020` BEDSR-Net: A Deep Shadow Removal Network From a Single Document Image [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Lin_BEDSR-Net_A_Deep_Shadow_Removal_Network_From_a_Single_Document_CVPR_2020_paper.html)
 
