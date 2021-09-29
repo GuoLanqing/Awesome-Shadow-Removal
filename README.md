@@ -5,7 +5,11 @@ Collection of recent shadow removal works. Questions and discussions are most we
 
 ### Supervised-Deep-Learning Algorithm 
 
+* `CVPR2018` Stacked Conditional Generative Adversarial Networks for Jointly Learning Shadow Detection and Shadow Removal [[Paper]](https://arxiv.org/pdf/1712.02478v1.pdf) [[Code]](https://github.com/IsHYuhi/ST-CGAN_Stacked_Conditional_Generative_Adversarial_Networks)
+
 * `ICCV2019` Shadow Removal via Shadow Image Decomposition [[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Le_Shadow_Removal_via_Shadow_Image_Decomposition_ICCV_2019_paper.pdf) [[Code]](https://github.com/cvlab-stonybrook/SID)
+
+* `TPAMI2019` Direction-Aware Spatial Context Features for Shadow Detection and Removal [[Paper]](https://arxiv.org/pdf/1805.04635.pdf) [[Code]](https://github.com/xw-hu/DSC)
 
 * `AAAI2020` RIS-GAN: Explore Residual and Illumination with Generative Adversarial Networks for Shadow Removal [[Paper]](http://www.chengjianglong.com/publications/RISGAN_AAAI.pdf) [[Code]](https://github.com/zhling2020/RIS-GAN)
 
@@ -40,9 +44,9 @@ Collection of recent shadow removal works. Questions and discussions are most we
 
 ### Application
 
-[ICASSP2020] Shadow removal of text document images by estimating local and global background colors 
+* `ICASSP2020` Shadow removal of text document images by estimating local and global background colors 
 
-[CVPR2020] BEDSR-Net: A Deep Shadow Removal Network From a Single Document Image [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Lin_BEDSR-Net_A_Deep_Shadow_Removal_Network_From_a_Single_Document_CVPR_2020_paper.html)
+* `CVPR2020` BEDSR-Net: A Deep Shadow Removal Network From a Single Document Image [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Lin_BEDSR-Net_A_Deep_Shadow_Removal_Network_From_a_Single_Document_CVPR_2020_paper.html)
 
 ## Datasets
 
@@ -53,7 +57,7 @@ Collection of recent shadow removal works. Questions and discussions are most we
 
 ## Metrics
 
- * RMSE (Root-Mean-Square Error) [[Wiki]](https://en.wikipedia.org/wiki/Root-mean-square_deviation) 
+ * RMSE (Root-Mean-Square Error) [[Wiki]](https://en.wikipedia.org/wiki/Root-mean-square_deviation) [[Matlab Code]](https://www.mathworks.com/matlabcentral/fileexchange/21383-rmse) 
  * PSNR (Peak Signal-to-Noise Ratio) [[Wiki]](https://en.wikipedia.org/wiki/Peak_signal-to-noise_ratio) [[Matlab Code]](https://www.mathworks.com/help/images/ref/psnr.html) [[Python Code]](https://github.com/aizvorski/video-quality)
  * SSIM (Structural similarity) [[Wiki]](https://en.wikipedia.org/wiki/Structural_similarity) [[Matlab Code]](http://www.cns.nyu.edu/~lcv/ssim/ssim_index.m) [[Python Code]](https://github.com/aizvorski/video-quality/blob/master/ssim.py)
  * NIQE (Naturalness Image Quality Evaluator) [[Web]](http://live.ece.utexas.edu/research/Quality/nrqa.htm) [[Matlab Code]](http://live.ece.utexas.edu/research/Quality/nrqa.htm) [[Python Code]](https://github.com/aizvorski/video-quality/blob/master/niqe.py)
