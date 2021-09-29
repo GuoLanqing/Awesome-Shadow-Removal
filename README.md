@@ -5,17 +5,17 @@
 
 ### Supervised-Deep-Learning Algorithm 
 
-[ICCV2019] Shadow Removal via Shadow Image Decomposition [[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Le_Shadow_Removal_via_Shadow_Image_Decomposition_ICCV_2019_paper.pdf) [[Code]](https://github.com/cvlab-stonybrook/SID)
+* `ICCV2019` Shadow Removal via Shadow Image Decomposition [[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Le_Shadow_Removal_via_Shadow_Image_Decomposition_ICCV_2019_paper.pdf) [[Code]](https://github.com/cvlab-stonybrook/SID)
 
-[AAAI2020] RIS-GAN: Explore Residual and Illumination with Generative Adversarial Networks for Shadow Removal [[Paper]](http://www.chengjianglong.com/publications/RISGAN_AAAI.pdf) [[Code]](https://github.com/zhling2020/RIS-GAN)
+* `AAAI2020` RIS-GAN: Explore Residual and Illumination with Generative Adversarial Networks for Shadow Removal [[Paper]](http://www.chengjianglong.com/publications/RISGAN_AAAI.pdf) [[Code]](https://github.com/zhling2020/RIS-GAN)
 
-[AAAI2020] Towards Ghost-Free Shadow Removal via Dual Hierarchical Aggregation Network and Shadow Matting GAN [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6695)
+* `AAAI2020` Towards Ghost-Free Shadow Removal via Dual Hierarchical Aggregation Network and Shadow Matting GAN [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6695) [[Code]](https://github.com/vinthony/ghost-free-shadow-removal)
 
-[SPL2021] Mask-ShadowNet: Towards Shadow Removal via Masked Adaptive Instance Normalization [[Paper]](https://ieeexplore.ieee.org/document/9408351) [[Code]](https://github.com/penguinbing/Mask-ShadowNet)
+* `SPL2021` Mask-ShadowNet: Towards Shadow Removal via Masked Adaptive Instance Normalization [[Paper]](https://ieeexplore.ieee.org/document/9408351) [[Code]](https://github.com/penguinbing/Mask-ShadowNet)
 
-[CVPR2021] Auto-Exposure Fusion for Single-Image Shadow Removal [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Fu_Auto-Exposure_Fusion_for_Single-Image_Shadow_Removal_CVPR_2021_paper.html) [[Code]](https://github.com/tsingqguo/exposure-fusion-shadow-removal)
+* `CVPR2021` Auto-Exposure Fusion for Single-Image Shadow Removal [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Fu_Auto-Exposure_Fusion_for_Single-Image_Shadow_Removal_CVPR_2021_paper.html) [[Code]](https://github.com/tsingqguo/exposure-fusion-shadow-removal)
 
-[] CANet: A Context-Aware Network for Shadow Removal [[Paper]](https://arxiv.org/pdf/2108.09894.pdf) [[Code]](https://github.com/Zipei-Chen/CANet)
+* `Arxiv2021` CANet: A Context-Aware Network for Shadow Removal [[Paper]](https://arxiv.org/pdf/2108.09894.pdf) [[Code]](https://github.com/Zipei-Chen/CANet)
 
 ### Weakly-Supervised-Deep-Learning Algorithm 
 
@@ -32,7 +32,7 @@
 
 ### Shadow Generation
 
-[AAAI2020] Towards Ghost-Free Shadow Removal via Dual Hierarchical Aggregation Network and Shadow Matting GAN [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6695)
+[AAAI2020] Towards Ghost-Free Shadow Removal via Dual Hierarchical Aggregation Network and Shadow Matting GAN [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6695) [[Code]](https://github.com/vinthony/ghost-free-shadow-removal)
 
 [CVPR2021] From Shadow Generation to Shadow Removal [[Paper]](https://arxiv.org/pdf/2103.12997v1.pdf) [[Code]](https://github.com/hhqweasd/G2R-ShadowNet)
 
