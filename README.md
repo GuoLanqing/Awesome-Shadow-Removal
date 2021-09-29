@@ -5,6 +5,8 @@ Collection of recent shadow removal works. Questions and discussions are most we
 
 ### Supervised-Deep-Learning Algorithm 
 
+* `CVPR2017` DeshadowNet: A Multi-Context Embedding Deep Network for Shadow Removal [[Paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Qu_DeshadowNet_A_Multi-Context_CVPR_2017_paper.pdf) [[Code]](https://github.com/zylix666/DeshadowNet)
+
 * `CVPR2018` Stacked Conditional Generative Adversarial Networks for Jointly Learning Shadow Detection and Shadow Removal [[Paper]](https://arxiv.org/pdf/1712.02478v1.pdf) [[Code]](https://github.com/IsHYuhi/ST-CGAN_Stacked_Conditional_Generative_Adversarial_Networks)
 
 * `ICCV2019` Shadow Removal via Shadow Image Decomposition [[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Le_Shadow_Removal_via_Shadow_Image_Decomposition_ICCV_2019_paper.pdf) [[Code]](https://github.com/cvlab-stonybrook/SID)
@@ -38,6 +40,7 @@ Collection of recent shadow removal works. Questions and discussions are most we
 
 * `AAAI2020` Towards Ghost-Free Shadow Removal via Dual Hierarchical Aggregation Network and Shadow Matting GAN [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6695) [[Code]](https://github.com/vinthony/ghost-free-shadow-removal)
 
+* `TCSVT2020` Learning from Synthetic Shadows for Shadow Detection and Removal [[Paper]](https://arxiv.org/abs/2101.01713) [[Code]](https://github.com/naoto0804/SynShadow)
 
 * `CVPR2021` From Shadow Generation to Shadow Removal [[Paper]](https://arxiv.org/pdf/2103.12997v1.pdf) [[Code]](https://github.com/hhqweasd/G2R-ShadowNet)
 
@@ -50,10 +53,10 @@ Collection of recent shadow removal works. Questions and discussions are most we
 
 ## Datasets
 
-* ISTD 
-* ISTD+
-* SRD
-* USR
+* ISTD [[link]](https://github.com/DeepInsight-PCALab/ST-CGAN)
+* ISTD+ [[link]](https://github.com/cvlab-stonybrook/SID)
+* SRD (please email the [authors](https://openaccess.thecvf.com/content_cvpr_2017/papers/Qu_DeshadowNet_A_Multi-Context_CVPR_2017_paper.pdf) to get assess).
+* USR: Unpaired Shadow Removal Dataset [[link]](https://drive.google.com/file/d/1PPAX0W4eyfn1cUrb2aBefnbrmhB1htoJ/view)
 
 ## Metrics
 
