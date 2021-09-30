@@ -31,11 +31,11 @@ Collection of recent shadow removal works. Questions and discussions are most we
 
 * `TIP2021` Shadow Removal by a Lightness-Guided Network With Training on Unpaired Data [[Paper]](https://ieeexplore.ieee.org/abstract/document/9318562) [[Code]](https://github.com/hhqweasd/LG-ShadowNet)
 
+* `Arxiv2021` Self-Supervised Shadow Removal [[Paper]](https://arxiv.org/pdf/2010.11619.pdf)
+
 ### Unsupervised-Deep-Learning Algorithm
 
 * `CVPR2021` From Shadow Generation to Shadow Removal [[Paper]](https://arxiv.org/pdf/2103.12997v1.pdf) [[Code]](https://github.com/hhqweasd/G2R-ShadowNet)
-
-* `Arxiv2021` Self-Supervised Shadow Removal [[Paper]](https://arxiv.org/pdf/2010.11619.pdf)
 
 * `Arxiv2021` Unsupervised Shadow Removal Using Target Consistency Generative Adversarial Network [[Paper]](https://arxiv.org/abs/2010.01291)
 
