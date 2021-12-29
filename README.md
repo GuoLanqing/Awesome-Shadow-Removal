@@ -21,7 +21,7 @@ Collection of recent shadow removal works. Questions and discussions are most we
 
 * `CVPR2021` Auto-Exposure Fusion for Single-Image Shadow Removal [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Fu_Auto-Exposure_Fusion_for_Single-Image_Shadow_Removal_CVPR_2021_paper.html) [[Code]](https://github.com/tsingqguo/exposure-fusion-shadow-removal)
 
-* `Arxiv2021` CANet: A Context-Aware Network for Shadow Removal [[Paper]](https://arxiv.org/pdf/2108.09894.pdf) [[Code]](https://github.com/Zipei-Chen/CANet)
+* `ICCV2021` CANet: A Context-Aware Network for Shadow Removal [[Paper]](https://arxiv.org/pdf/2108.09894.pdf) [[Code]](https://github.com/Zipei-Chen/CANet)
 
 ### Weakly-Supervised-Deep-Learning Algorithm 
 
