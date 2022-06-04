@@ -51,9 +51,9 @@ Collection of recent shadow removal works. Questions and discussions are most we
 
 * `CVPR2021` From Shadow Generation to Shadow Removal [[Paper]](https://arxiv.org/pdf/2103.12997v1.pdf) [[Code]](https://github.com/hhqweasd/G2R-ShadowNet)
 
-* `CVPR2020 oral` Learning to Shadow Hand-Drawn Sketches [[Paper]] (https://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_Learning_to_Shadow_Hand-Drawn_Sketches_CVPR_2020_paper.pdf) [[Code]] (https://cal.cs.umbc.edu/Papers/Zheng-2020-Shade/index.html)
+* `CVPR2020` Learning to Shadow Hand-Drawn Sketches [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_Learning_to_Shadow_Hand-Drawn_Sketches_CVPR_2020_paper.pdf) [[Code]](https://cal.cs.umbc.edu/Papers/Zheng-2020-Shade/index.html)
 
-* `ICCV2021` SmartShadow: Artistic Shadow Drawing Tool for Line Drawings [[Paper]] (https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_SmartShadow_Artistic_Shadow_Drawing_Tool_for_Line_Drawings_ICCV_2021_paper.pdf)
+* `ICCV2021` SmartShadow: Artistic Shadow Drawing Tool for Line Drawings [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_SmartShadow_Artistic_Shadow_Drawing_Tool_for_Line_Drawings_ICCV_2021_paper.pdf)
 * 
 ### Application
 
