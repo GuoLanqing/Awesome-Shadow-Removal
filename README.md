@@ -54,12 +54,14 @@ Collection of recent shadow removal works. Questions and discussions are most we
 * `CVPR2020` Learning to Shadow Hand-Drawn Sketches [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_Learning_to_Shadow_Hand-Drawn_Sketches_CVPR_2020_paper.pdf) [[Code]](https://cal.cs.umbc.edu/Papers/Zheng-2020-Shade/index.html)
 
 * `ICCV2021` SmartShadow: Artistic Shadow Drawing Tool for Line Drawings [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_SmartShadow_Artistic_Shadow_Drawing_Tool_for_Line_Drawings_ICCV_2021_paper.pdf)
-* 
+
 ### Application
 
 * `ICASSP2020` Shadow removal of text document images by estimating local and global background colors [[Paper]](https://ieeexplore.ieee.org/document/9053378)
 
 * `CVPR2020` BEDSR-Net: A Deep Shadow Removal Network From a Single Document Image [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Lin_BEDSR-Net_A_Deep_Shadow_Removal_Network_From_a_Single_Document_CVPR_2020_paper.html)
+
+* `CVPR2022` Shadows Can Be Dangerous: Stealthy and Effective Physical-World Adversarial Attack by Natural Phenomenon [[Paper]](https://arxiv.org/pdf/2203.03818.pdf) [[Code]](https://github.com/hncszyq/ShadowAttack)
 
 ## Datasets
 
