@@ -23,7 +23,7 @@ Collection of recent shadow removal works. Questions and discussions are most we
 
 * `ICCV2021` CANet: A Context-Aware Network for Shadow Removal [[Paper]](https://arxiv.org/pdf/2108.09894.pdf) [[Code]](https://github.com/Zipei-Chen/CANet)
 
-* `AAAI2022` Efficient Model-Driven Network for Shadow Removal [[Paper]](https://www.aaai.org/AAAI22Papers/AAAI-196.ZhuY.pdf) [[Code]]( https://github.com/zhuyr97/AAAI2022_Unfolding_Network_Shadow_Removal)
+* `AAAI2022` Efficient Model-Driven Network for Shadow Removal [[Paper]](https://www.aaai.org/AAAI22Papers/AAAI-196.ZhuY.pdf) [[Code]](https://github.com/zhuyr97/AAAI2022_Unfolding_Network_Shadow_Removal)
 
 * `Arxiv2022` UnShadowNet: Illumination Critic Guided Contrastive Learning For Shadow Removal [[Paper]](https://arxiv.org/pdf/2203.15441v1.pdf)
 
@@ -51,10 +51,10 @@ Collection of recent shadow removal works. Questions and discussions are most we
 
 * `CVPR2021` From Shadow Generation to Shadow Removal [[Paper]](https://arxiv.org/pdf/2103.12997v1.pdf) [[Code]](https://github.com/hhqweasd/G2R-ShadowNet)
 
-* `CVPR2020 oral` Learning to Shadow Hand-Drawn Sketches [[Paper]] (https://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_Learning_to_Shadow_Hand-Drawn_Sketches_CVPR_2020_paper.pdf) [[Code]](https://cal.cs.umbc.edu/Papers/Zheng-2020-Shade/index.html)
+* `CVPR2020 oral` Learning to Shadow Hand-Drawn Sketches [[Paper]] (https://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_Learning_to_Shadow_Hand-Drawn_Sketches_CVPR_2020_paper.pdf) [[Code]] (https://cal.cs.umbc.edu/Papers/Zheng-2020-Shade/index.html)
 
-* `ICCV2021` SmartShadow: Artistic Shadow Drawing Tool for Line Drawings
- [[Paper]] (https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_SmartShadow_Artistic_Shadow_Drawing_Tool_for_Line_Drawings_ICCV_2021_paper.pdf)
+* `ICCV2021` SmartShadow: Artistic Shadow Drawing Tool for Line Drawings [[Paper]] (https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_SmartShadow_Artistic_Shadow_Drawing_Tool_for_Line_Drawings_ICCV_2021_paper.pdf)
+* 
 ### Application
 
 * `ICASSP2020` Shadow removal of text document images by estimating local and global background colors [[Paper]](https://ieeexplore.ieee.org/document/9053378)
