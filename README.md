@@ -43,6 +43,8 @@ Collection of recent shadow removal works. Questions and discussions are most we
 
 * `Arxiv2021` Unsupervised Shadow Removal Using Target Consistency Generative Adversarial Network [[Paper]](https://arxiv.org/abs/2010.01291)
 
+* `ACM MM2021` Unsupervised Portrait Shadow Removal via Generative Priors [[Paper]](https://arxiv.org/pdf/2108.03466.pdf) [[Code]](https://github.com/YingqingHe/Shadow-Removal-via-Generative-Priors)
+
 ### Shadow Generation
 
 * `AAAI2020` Towards Ghost-Free Shadow Removal via Dual Hierarchical Aggregation Network and Shadow Matting GAN [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6695) [[Code]](https://github.com/vinthony/ghost-free-shadow-removal)
