@@ -26,6 +26,8 @@ Collection of recent shadow removal works. Questions and discussions are most we
 * `AAAI2022` Efficient Model-Driven Network for Shadow Removal [[Paper]](https://www.aaai.org/AAAI22Papers/AAAI-196.ZhuY.pdf) [[Code]](https://github.com/zhuyr97/AAAI2022_Unfolding_Network_Shadow_Removal)
 
 * `Arxiv2022` UnShadowNet: Illumination Critic Guided Contrastive Learning For Shadow Removal [[Paper]](https://arxiv.org/pdf/2203.15441v1.pdf)
+* `CVPR2022` Bijective Mapping Network for Shadow Removal [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Bijective_Mapping_Network_for_Shadow_Removal_CVPR_2022_paper.pdf)
+
 
 ### Weakly-Supervised-Deep-Learning Algorithm 
 
