@@ -29,7 +29,8 @@ Collection of recent shadow removal works. Questions and discussions are most we
 * `CVPR2022` Bijective Mapping Network for Shadow Removal [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Bijective_Mapping_Network_for_Shadow_Removal_CVPR_2022_paper.pdf) [[Code]]( https://github.com/KevinJ-Huang/BMNet)
 * `Arxiv2022` CRFormer: A Cross-Region Transformer for Shadow Removal [[Paper]](https://arxiv.org/pdf/2207.01600.pdf)  
 * `Arxiv2022` Shadow-Aware Dynamic Convolution for Shadow Removal [[Paper]](https://arxiv.org/pdf/2205.04908.pdf) [[Code]]( https://github.com/xuyimin0926/SADC) 
-* `ECCV2022` Style-Guided Shadow Removal [[Code]](https://github.com/jinwan1994/SG-ShadowNet)
+* `ECCV2022` Style-Guided Shadow Removal [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136790353.pdf) [[Code]](https://github.com/jinwan1994/SG-ShadowNet)
+* `Arxiv2022` ShadowDiffusion: Diffusion-based Shadow Removal using Classifier-driven Attention and Structure Preservation [[Paper]](https://arxiv.org/pdf/2211.08089.pdf)   
 
 
 ### Unsupervised-Deep-Learning Algorithm
