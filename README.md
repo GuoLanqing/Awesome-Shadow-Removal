@@ -49,7 +49,14 @@ Collection of recent shadow removal works. Questions and discussions are most we
 
 * `ICCV2021` DC-ShadowNet: Single-Image Hard and Soft Shadow Removal Using Unsupervised Domain-Classifier Guided Network [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Jin_DC-ShadowNet_Single-Image_Hard_and_Soft_Shadow_Removal_Using_Unsupervised_Domain-Classifier_ICCV_2021_paper.pdf) [[Code]](https://github.com/jinyeying/DC-ShadowNet-Hard-and-Soft-Shadow-Removal)
 
+
+
+### Portrait Shadow Removal
+
 * `ACM MM2021` Unsupervised Portrait Shadow Removal via Generative Priors [[Paper]](https://arxiv.org/pdf/2108.03466.pdf) [[Code]](https://github.com/YingqingHe/Shadow-Removal-via-Generative-Priors)
+
+* `BMVC2022` 
+Blind Removal of Facial Foreign Shadows  [[Paper]](http://cvlab.cse.msu.edu/pdfs/Liu_Hou_Huang_Ren_Liu_BMVC2022.pdf)
 
 ### Shadow Generation
 
