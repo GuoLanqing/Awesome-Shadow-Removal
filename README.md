@@ -29,6 +29,7 @@ Collection of recent shadow removal works. Questions and discussions are most we
 * `CVPR2022` Bijective Mapping Network for Shadow Removal [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Bijective_Mapping_Network_for_Shadow_Removal_CVPR_2022_paper.pdf) [[Code]]( https://github.com/KevinJ-Huang/BMNet)
 * `Arxiv2022` CRFormer: A Cross-Region Transformer for Shadow Removal [[Paper]](https://arxiv.org/pdf/2207.01600.pdf)  
 * `Arxiv2022` Shadow-Aware Dynamic Convolution for Shadow Removal [[Paper]](https://arxiv.org/pdf/2205.04908.pdf) [[Code]]( https://github.com/xuyimin0926/SADC) 
+* `ECCVW2022` CNSNet: A Cleanness-Navigated-Shadow Network for Shadow Removal [[Paper]](https://arxiv.org/pdf/2209.02174.pdf) 
 * `ECCV2022` Style-Guided Shadow Removal [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136790353.pdf) [[Code]](https://github.com/jinwan1994/SG-ShadowNet)
 * `Arxiv2022` ShadowDiffusion: Diffusion-based Shadow Removal using Classifier-driven Attention and Structure Preservation [[Paper]](https://arxiv.org/pdf/2211.08089.pdf)   
 
@@ -80,10 +81,12 @@ Blind Removal of Facial Foreign Shadows  [[Paper]](http://cvlab.cse.msu.edu/pdfs
 
 ## Datasets
 
-* ISTD [[link]](https://github.com/DeepInsight-PCALab/ST-CGAN)
+* ISTD [[link]](https://github.com/DeepInsight-PCALab/ST-CGAN)  
 * ISTD+ [[link]](https://github.com/cvlab-stonybrook/SID)
 * SRD (please email the [authors](https://openaccess.thecvf.com/content_cvpr_2017/papers/Qu_DeshadowNet_A_Multi-Context_CVPR_2017_paper.pdf) to get assess)
 * USR: Unpaired Shadow Removal Dataset [[link]](https://drive.google.com/file/d/1PPAX0W4eyfn1cUrb2aBefnbrmhB1htoJ/view)
+
+> (Detected Masks of the ISTD/ISTD+ dataset [[download]](https://drive.google.com/drive/folders/1-LLZ_gIc4_nCgA6GMISILmkrE_iLeQgx?usp=sharing)  from [[paper]](https://github.com/zhuyr97/SDCM).  )
 
 ## Metrics
 
