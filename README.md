@@ -81,6 +81,9 @@ Blind Removal of Facial Foreign Shadows  [[Paper]](http://cvlab.cse.msu.edu/pdfs
 
 * `CVPR2022` Shadows Can Be Dangerous: Stealthy and Effective Physical-World Adversarial Attack by Natural Phenomenon [[Paper]](https://arxiv.org/pdf/2203.03818.pdf) [[Code]](https://github.com/hncszyq/ShadowAttack)
 
+* `AAAI2023` Estimating Reflectance Layer from A Single Image: Integrating Reflectance Guidance and Shadow/Specular Aware Learning [[Paper]](https://arxiv.org/pdf/2211.14751.pdf)
+
+
 ## Datasets
 
 * ISTD [[link]](https://github.com/DeepInsight-PCALab/ST-CGAN)  
