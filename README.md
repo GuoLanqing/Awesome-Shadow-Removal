@@ -88,7 +88,7 @@ Blind Removal of Facial Foreign Shadows  [[Paper]](http://cvlab.cse.msu.edu/pdfs
 
 * ISTD [[link]](https://github.com/DeepInsight-PCALab/ST-CGAN)  
 * ISTD+ [[link]](https://github.com/cvlab-stonybrook/SID)
-* SRD (please email the [authors](https://openaccess.thecvf.com/content_cvpr_2017/papers/Qu_DeshadowNet_A_Multi-Context_CVPR_2017_paper.pdf) to get assess)
+* SRD [[link]](https://liangqiong.github.io/publications/)
 * USR: Unpaired Shadow Removal Dataset [[link]](https://drive.google.com/file/d/1PPAX0W4eyfn1cUrb2aBefnbrmhB1htoJ/view)
 
 > (Detected Masks of the ISTD/ISTD+ dataset [[download]](https://drive.google.com/drive/folders/1-LLZ_gIc4_nCgA6GMISILmkrE_iLeQgx?usp=sharing)  from [[paper]](https://github.com/zhuyr97/SDCM).  )
