@@ -34,6 +34,11 @@ Collection of recent shadow removal works. Questions and discussions are most we
 * `Arxiv2022` ShadowDiffusion: Diffusion-based Shadow Removal using Classifier-driven Attention and Structure Preservation [[Paper]](https://arxiv.org/pdf/2211.08089.pdf)   
 * `Arxiv2022` ShadowDiffusion: When Degradation Prior Meets Diffusion Model for Shadow Removal [[Paper]](https://arxiv.org/pdf/2212.04711.pdf)
 * `AAAI2023` ShadowFormer: Global Context Helps Image Shadow Removal [[Paper]](https://arxiv.org/pdf/2302.01650.pdf) [[Code]](https://github.com/GuoLanqing/ShadowFormer)
+* `WACV2023` SHARDS: Efficient SHAdow Removal using Dual Stage Network for
+High-Resolution Images [[Paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Sen_SHARDS_Efficient_Shadow_Removal_Using_Dual_Stage_Network_for_High-Resolution_WACV_2023_paper.pdf)
+
+* `WACV2023` LRA&LDRA: Rethinking Residual Predictions for Efficient Shadow Detection
+and Removal [[Paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Yucel_LRALDRA_Rethinking_Residual_Predictions_for_Efficient_Shadow_Detection_and_Removal_WACV_2023_paper.pdf)
 
 
 ### Unsupervised-Deep-Learning Algorithm
@@ -81,7 +86,11 @@ Blind Removal of Facial Foreign Shadows  [[Paper]](http://cvlab.cse.msu.edu/pdfs
 
 * `CVPR2022` Shadows Can Be Dangerous: Stealthy and Effective Physical-World Adversarial Attack by Natural Phenomenon [[Paper]](https://arxiv.org/pdf/2203.03818.pdf) [[Code]](https://github.com/hncszyq/ShadowAttack)
 
+* `TGRS2022` Shadow Removal of Hyperspectral Remote Sensing Images With Multiexposure Fusion [[Paper]](https://ieeexplore.ieee.org/abstract/document/9874905)
+
 * `AAAI2023` Estimating Reflectance Layer from A Single Image: Integrating Reflectance Guidance and Shadow/Specular Aware Learning [[Paper]](https://arxiv.org/pdf/2211.14751.pdf)
+
+
 
 
 ## Datasets
