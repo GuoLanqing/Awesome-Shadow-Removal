@@ -102,6 +102,11 @@ Blind Removal of Facial Foreign Shadows  [[Paper]](http://cvlab.cse.msu.edu/pdfs
 
 > (Detected Masks of the ISTD/ISTD+ dataset [[download]](https://drive.google.com/drive/folders/1-LLZ_gIc4_nCgA6GMISILmkrE_iLeQgx?usp=sharing)  from [[paper]](https://github.com/zhuyr97/SDCM).  )
 
+## Shadow Detectors
+
+* SAM-Adptor [[link]](https://github.com/tianrun-chen/SAM-Adapter-PyTorch)
+* DHAN [[link]](https://github.com/vinthony/ghost-free-shadow-removal) 
+
 ## Metrics
 
  * RMSE (Root-Mean-Square Error) [[Wiki]](https://en.wikipedia.org/wiki/Root-mean-square_deviation) [[Matlab Code]](https://www.mathworks.com/matlabcentral/fileexchange/21383-rmse) 
