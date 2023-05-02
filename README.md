@@ -40,6 +40,9 @@ High-Resolution Images [[Paper]](https://openaccess.thecvf.com/content/WACV2023/
 * `WACV2023` LRA&LDRA: Rethinking Residual Predictions for Efficient Shadow Detection
 and Removal [[Paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Yucel_LRALDRA_Rethinking_Residual_Predictions_for_Efficient_Shadow_Detection_and_Removal_WACV_2023_paper.pdf)
 
+* `TMM2023` A Boundary-Aware Network for Shadow Removal [[Paper]](https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/abstract/document/9918057)
+
+* `TMM2023` A Decoupled Multi-Task Network for Shadow Removal [[Paper]](https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/abstract/document/10058544) [[Code]](https://github.com/nachifur/DMTN)
 
 ### Unsupervised-Deep-Learning Algorithm
 
