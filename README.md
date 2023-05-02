@@ -23,6 +23,8 @@ Collection of recent shadow removal works. Questions and discussions are most we
 
 * `ICCV2021` CANet: A Context-Aware Network for Shadow Removal [[Paper]](https://arxiv.org/pdf/2108.09894.pdf) [[Code]](https://github.com/Zipei-Chen/CANet)
 
+* `TPAMI21` Physics-based Shadow Image Decomposition for Shadow Removal [[Paper]](https://arxiv.org/pdf/2012.13018.pdf)
+
 * `AAAI2022` Efficient Model-Driven Network for Shadow Removal [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20276) [[Code]](https://github.com/zhuyr97/AAAI2022_Unfolding_Network_Shadow_Removal)
 
 * `Arxiv2022` UnShadowNet: Illumination Critic Guided Contrastive Learning For Shadow Removal [[Paper]](https://arxiv.org/pdf/2203.15441v1.pdf)
