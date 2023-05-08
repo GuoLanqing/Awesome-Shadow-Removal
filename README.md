@@ -62,7 +62,9 @@ and Removal [[Paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Yuce
 
 * `ICCV2021` DC-ShadowNet: Single-Image Hard and Soft Shadow Removal Using Unsupervised Domain-Classifier Guided Network [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Jin_DC-ShadowNet_Single-Image_Hard_and_Soft_Shadow_Removal_Using_Unsupervised_Domain-Classifier_ICCV_2021_paper.pdf) [[Code]](https://github.com/jinyeying/DC-ShadowNet-Hard-and-Soft-Shadow-Removal)
 
-
+### Semi-Supervised-Deep-Learning Algorithm
+* `ICCV2019` ARGAN: Attentive Recurrent Generative Adversarial Network for Shadow
+Detection and Removal [[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Ding_ARGAN_Attentive_Recurrent_Generative_Adversarial_Network_for_Shadow_Detection_and_ICCV_2019_paper.pdf)
 
 ### Portrait Shadow Removal
 
