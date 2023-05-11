@@ -111,7 +111,7 @@ Blind Removal of Facial Foreign Shadows  [[Paper]](http://cvlab.cse.msu.edu/pdfs
 
 ## Shadow Detectors
 
-* SAM-Adptor [[link]](https://github.com/tianrun-chen/SAM-Adapter-PyTorch)
+* SAM-Adaptor [[link]](https://github.com/tianrun-chen/SAM-Adapter-PyTorch)
 * DHAN [[link]](https://github.com/vinthony/ghost-free-shadow-removal) 
 
 ## Metrics
