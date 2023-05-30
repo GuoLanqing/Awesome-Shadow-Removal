@@ -107,12 +107,14 @@ Blind Removal of Facial Foreign Shadows  [[Paper]](http://cvlab.cse.msu.edu/pdfs
 * SRD [[Training]](https://drive.google.com/file/d/1W8vBRJYDG9imMgr9I2XaA13tlFIEHOjS/view)[[Testing]](https://drive.google.com/file/d/1GTi4BmQ0SJ7diDMmf-b7x2VismmXtfTo/view)
 * USR: Unpaired Shadow Removal Dataset [[link]](https://drive.google.com/file/d/1PPAX0W4eyfn1cUrb2aBefnbrmhB1htoJ/view)
 
-> (Detected Masks of the ISTD/ISTD+ dataset [[download]](https://drive.google.com/drive/folders/1-LLZ_gIc4_nCgA6GMISILmkrE_iLeQgx?usp=sharing)  from [[paper]](https://github.com/zhuyr97/SDCM).  )
+<!-- > (Detected Masks of the ISTD/ISTD+ dataset [[download]](https://drive.google.com/drive/folders/1-LLZ_gIc4_nCgA6GMISILmkrE_iLeQgx?usp=sharing)  from [[paper]](https://github.com/zhuyr97/SDCM).  ) -->
 
 ## Shadow Detectors
 
 * SAM-Adaptor [[link]](https://github.com/tianrun-chen/SAM-Adapter-PyTorch)
 * DHAN [[link]](https://github.com/vinthony/ghost-free-shadow-removal) 
+* SDCM [[link]](https://github.com/zhuyr97/SDCM)
+* BDRAR [[link]](https://github.com/zijundeng/BDRAR)
 
 ## Metrics
 
