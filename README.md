@@ -46,6 +46,8 @@ and Removal [[Paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Yuce
 
 * `TMM2023` A Decoupled Multi-Task Network for Shadow Removal [[Paper]](https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/abstract/document/10058544) [[Code]](https://github.com/nachifur/DMTN)
 
+* `TNNLS2023` A Shadow Imaging Bilinear Model and Three-branch Residual Network for Shadow Removal [[Code]](https://github.com/nachifur/TBRNet)
+
 ### Unsupervised-Deep-Learning Algorithm
 
 * `ICCV2019` Mask-ShadowGAN: Learning to Remove Shadows from Unpaired Data [[Paper]](https://arxiv.org/abs/1903.10683) [[Code]](https://github.com/xw-hu/Mask-ShadowGAN)
