@@ -70,10 +70,14 @@ Detection and Removal [[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/
 
 ### Portrait Shadow Removal
 
+* `SIGGRAPH2020` Portrait Shadow Manipulation [[Paper]](https://arxiv.org/abs/2005.08925) [[Code]](https://github.com/google/portrait-shadow-manipulation)
+
 * `ACM MM2021` Unsupervised Portrait Shadow Removal via Generative Priors [[Paper]](https://arxiv.org/pdf/2108.03466.pdf) [[Code]](https://github.com/YingqingHe/Shadow-Removal-via-Generative-Priors)
 
 * `BMVC2022` 
 Blind Removal of Facial Foreign Shadows  [[Paper]](http://cvlab.cse.msu.edu/pdfs/Liu_Hou_Huang_Ren_Liu_BMVC2022.pdf)
+
+
 
 ### Shadow Generation
 
@@ -111,12 +115,20 @@ Blind Removal of Facial Foreign Shadows  [[Paper]](http://cvlab.cse.msu.edu/pdfs
 
 <!-- > (Detected Masks of the ISTD/ISTD+ dataset [[download]](https://drive.google.com/drive/folders/1-LLZ_gIc4_nCgA6GMISILmkrE_iLeQgx?usp=sharing)  from [[paper]](https://github.com/zhuyr97/SDCM).  ) -->
 
-## Shadow Detectors
+# Shadow Detectors
 
-* SAM-Adaptor [[link]](https://github.com/tianrun-chen/SAM-Adapter-PyTorch)
-* DHAN [[link]](https://github.com/vinthony/ghost-free-shadow-removal) 
-* SDCM [[link]](https://github.com/zhuyr97/SDCM)
-* BDRAR [[link]](https://github.com/zijundeng/BDRAR)
+* `CVPR2018` Direction-Aware Spatial Context Features for Shadow Detection [[Paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Direction-Aware_Spatial_Context_CVPR_2018_paper.pdf) [[Code]](https://github.com/xw-hu/DSC)
+* `ECCV2018` Bidirectional Feature Pyramid Network with Recurrent Attention Residual Modules for Shadow Detection [[Paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Lei_Zhu_Bi-directional_Feature_Pyramid_ECCV_2018_paper.pdf) [[Code]](https://github.com/zijundeng/BDRAR)
+* `AAAI2020` Towards Ghost-Free Shadow Removal via Dual Hierarchical Aggregation Network and Shadow Matting GAN [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6695) [[Code]](https://github.com/vinthony/ghost-free-shadow-removal)
+* `ACM MM2022` Single Image Shadow Detection via Complementary Mechanism [[Paper]](https://xueyangfu.github.io/paper/2022/ACMMM/Shadow-Detection.pdf) [[Code]](https://github.com/zhuyr97/SDCM)
+* `Arxiv2023` SAM Fails to Segment Anything? -- SAM-Adapter: Adapting SAM in Underperformed Scenes: Camouflage, Shadow, Medical Image Segmentation, and More [[Paper]](https://arxiv.org/abs/2304.09148) [[Code]](https://github.com/tianrun-chen/SAM-Adapter-PyTorch)
+
+## Instance Shadow Detectors
+
+* `CVPR2020` Instance Shadow Detection [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Instance_Shadow_Detection_CVPR_2020_paper.pdf) [[Code]](https://github.com/stevewongv/InstanceShadowDetection)
+* `CVPR2021` Single-Stage Instance Shadow Detection with Bidirectional Relation Learning [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Single-Stage_Instance_Shadow_Detection_With_Bidirectional_Relation_Learning_CVPR_2021_paper.pdf) [[Code]](https://github.com/stevewongv/SSIS)
+* `TPAMI2023` Instance Shadow Detection with A Single-Stage Detector [[Paper]](https://arxiv.org/abs/2207.04614) [[Code]](https://github.com/stevewongv/SSIS)
+* `Arxiv2023` Video Instance Shadow Detection [[Paper]](https://arxiv.org/abs/2211.12827)
 
 ## Metrics
 
