@@ -115,7 +115,7 @@ Blind Removal of Facial Foreign Shadows  [[Paper]](http://cvlab.cse.msu.edu/pdfs
 
 <!-- > (Detected Masks of the ISTD/ISTD+ dataset [[download]](https://drive.google.com/drive/folders/1-LLZ_gIc4_nCgA6GMISILmkrE_iLeQgx?usp=sharing)  from [[paper]](https://github.com/zhuyr97/SDCM).  ) -->
 
-# Shadow Detectors
+## Shadow Detectors
 
 * `CVPR2018` Direction-Aware Spatial Context Features for Shadow Detection [[Paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Direction-Aware_Spatial_Context_CVPR_2018_paper.pdf) [[Code]](https://github.com/xw-hu/DSC)
 * `ECCV2018` Bidirectional Feature Pyramid Network with Recurrent Attention Residual Modules for Shadow Detection [[Paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Lei_Zhu_Bi-directional_Feature_Pyramid_ECCV_2018_paper.pdf) [[Code]](https://github.com/zijundeng/BDRAR)
