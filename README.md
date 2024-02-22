@@ -83,7 +83,7 @@ Blind Removal of Facial Foreign Shadows  [[Paper]](http://cvlab.cse.msu.edu/pdfs
 
 * `AAAI2020` Towards Ghost-Free Shadow Removal via Dual Hierarchical Aggregation Network and Shadow Matting GAN [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6695) [[Code]](https://github.com/vinthony/ghost-free-shadow-removal)
 
-* `TCSVT2020` Learning from Synthetic Shadows for Shadow Detection and Removal [[Paper]](https://arxiv.org/abs/2101.01713) [[Code]](https://github.com/naoto0804/SynShadow)
+* `TCSVT2021` Learning from Synthetic Shadows for Shadow Detection and Removal [[Paper]](https://arxiv.org/abs/2101.01713) [[Code]](https://github.com/naoto0804/SynShadow)
 
 * `CVPR2021` From Shadow Generation to Shadow Removal [[Paper]](https://arxiv.org/pdf/2103.12997v1.pdf) [[Code]](https://github.com/hhqweasd/G2R-ShadowNet)
 
