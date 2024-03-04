@@ -91,6 +91,8 @@ Blind Removal of Facial Foreign Shadows  [[Paper]](http://cvlab.cse.msu.edu/pdfs
 
 * `ICCV2021` SmartShadow: Artistic Shadow Drawing Tool for Line Drawings [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_SmartShadow_Artistic_Shadow_Drawing_Tool_for_Line_Drawings_ICCV_2021_paper.pdf)
 
+* `CVPR2024` Shadow Generation for Composite Image Using Diffusion Model [[Paper]](https://arxiv.org/abs/2104.10338) [[Code]](https://github.com/bcmi/Object-Shadow-Generation-Dataset-DESOBAv2)
+
 ### Application
 
 * `ICASSP2020` Shadow removal of text document images by estimating local and global background colors [[Paper]](https://ieeexplore.ieee.org/document/9053378)
