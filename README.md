@@ -48,6 +48,8 @@ and Removal [[Paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Yuce
 
 * `TNNLS2023` A Shadow Imaging Bilinear Model and Three-branch Residual Network for Shadow Removal [[Code]](https://github.com/nachifur/TBRNet)
 
+* `AAAI2024` Recasting Regional Lighting for Shadow Removal [[Paper]](https://arxiv.org/pdf/2402.00341.pdf)
+
 ### Unsupervised-Deep-Learning Algorithm
 
 * `ICCV2019` Mask-ShadowGAN: Learning to Remove Shadows from Unpaired Data [[Paper]](https://arxiv.org/abs/1903.10683) [[Code]](https://github.com/xw-hu/Mask-ShadowGAN)
