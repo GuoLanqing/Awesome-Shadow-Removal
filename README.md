@@ -42,13 +42,22 @@ High-Resolution Images [[Paper]](https://openaccess.thecvf.com/content/WACV2023/
 * `WACV2023` LRA&LDRA: Rethinking Residual Predictions for Efficient Shadow Detection
 and Removal [[Paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Yucel_LRALDRA_Rethinking_Residual_Predictions_for_Efficient_Shadow_Detection_and_Removal_WACV_2023_paper.pdf)
 
+* `ACMMM2023` FSR-Net: Deep Fourier Network for Shadow Removal [[Paper]](https://dl.acm.org/doi/10.1145/3581783.3612359)
+
 * `TMM2023` A Boundary-Aware Network for Shadow Removal [[Paper]](https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/abstract/document/9918057)
 
 * `TMM2023` A Decoupled Multi-Task Network for Shadow Removal [[Paper]](https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/abstract/document/10058544) [[Code]](https://github.com/nachifur/DMTN)
 
 * `TNNLS2023` A Shadow Imaging Bilinear Model and Three-branch Residual Network for Shadow Removal [[Code]](https://github.com/nachifur/TBRNet)
 
+* `ICCV2023` Leveraging Inpainting for Single-Image Shadow Removal [[Paper]](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwj3_s7gjeyEAxVV7zgGHUU3BewQFnoECBMQAQ&url=https%3A%2F%2Fopenaccess.thecvf.com%2Fcontent%2FICCV2023%2Fpapers%2FLi_Leveraging_Inpainting_for_Single-Image_Shadow_Removal_ICCV_2023_paper.pdf&usg=AOvVaw1FFfPxI0SlYMJIxSRJLfw4&opi=89978449) [[Code]](https://github.com/tsingqguo/inpaint4shadow)
+
 * `AAAI2024` Recasting Regional Lighting for Shadow Removal [[Paper]](https://arxiv.org/pdf/2402.00341.pdf)
+
+* `AAAI2024` DeS3: Adaptive Attention-driven Self and Soft Shadow Removal using ViT Similarity [[Paper]](https://arxiv.org/abs/2211.08089)
+
+* `WACV2024` Latent Feature-Guided Diffusion Models for Shadow Removal [[Paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Mei_Latent_Feature-Guided_Diffusion_Models_for_Shadow_Removal_WACV_2024_paper.pdf) [[Code]](https://github.com/MKFMIKU/Instance-Shadow-Diffusion)
+
 
 ### Unsupervised-Deep-Learning Algorithm
 
@@ -65,6 +74,8 @@ and Removal [[Paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Yuce
 * `Arxiv2021` Unsupervised Shadow Removal Using Target Consistency Generative Adversarial Network [[Paper]](https://arxiv.org/abs/2010.01291)
 
 * `ICCV2021` DC-ShadowNet: Single-Image Hard and Soft Shadow Removal Using Unsupervised Domain-Classifier Guided Network [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Jin_DC-ShadowNet_Single-Image_Hard_and_Soft_Shadow_Removal_Using_Unsupervised_Domain-Classifier_ICCV_2021_paper.pdf) [[Code]](https://github.com/jinyeying/DC-ShadowNet-Hard-and-Soft-Shadow-Removal)
+
+* `ICCV2023` Boundary-Aware Divide and Conquer: A Diffusion-based Solution for Unsupervised Shadow Removal [[Paper]](http://openaccess.thecvf.com/content/ICCV2023/papers/Guo_Boundary-Aware_Divide_and_Conquer_A_Diffusion-Based_Solution_for_Unsupervised_Shadow_ICCV_2023_paper.pdf)
 
 ### Semi-Supervised-Deep-Learning Algorithm
 * `ICCV2019` ARGAN: Attentive Recurrent Generative Adversarial Network for Shadow
