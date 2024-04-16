@@ -33,7 +33,6 @@ Collection of recent shadow removal works. Questions and discussions are most we
 * `Arxiv2022` Shadow-Aware Dynamic Convolution for Shadow Removal [[Paper]](https://arxiv.org/pdf/2205.04908.pdf) [[Code]]( https://github.com/xuyimin0926/SADC) 
 * `ECCVW2022` CNSNet: A Cleanness-Navigated-Shadow Network for Shadow Removal [[Paper]](https://arxiv.org/pdf/2209.02174.pdf) 
 * `ECCV2022` Style-Guided Shadow Removal [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136790353.pdf) [[Code]](https://github.com/jinwan1994/SG-ShadowNet)
-* `Arxiv2022` ShadowDiffusion: Diffusion-based Shadow Removal using Classifier-driven Attention and Structure Preservation [[Paper]](https://arxiv.org/pdf/2211.08089.pdf)   
 * `CVPR2023` ShadowDiffusion: When Degradation Prior Meets Diffusion Model for Shadow Removal [[Paper]](https://arxiv.org/pdf/2212.04711.pdf)
 * `AAAI2023` ShadowFormer: Global Context Helps Image Shadow Removal [[Paper]](https://arxiv.org/pdf/2302.01650.pdf) [[Code]](https://github.com/GuoLanqing/ShadowFormer)
 * `WACV2023` SHARDS: Efficient SHAdow Removal using Dual Stage Network for
