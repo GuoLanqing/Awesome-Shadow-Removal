@@ -57,7 +57,7 @@ and Removal [[Paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Yuce
 
 * `WACV2024` Latent Feature-Guided Diffusion Models for Shadow Removal [[Paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Mei_Latent_Feature-Guided_Diffusion_Models_for_Shadow_Removal_WACV_2024_paper.pdf) [[Code]](https://github.com/MKFMIKU/Instance-Shadow-Diffusion)
 
-* `CVPR2024` Homogenized Transformer for Image Shadow Removal [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_HomoFormer_Homogenized_Transformer_for_Image_Shadow_Removal_CVPR_2024_paper.pdf)[[Code]](https://github.com/jiexiaou/HomoFormer)
+* `CVPR2024` HomoFormer: Homogenized Transformer for Image Shadow Removal [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_HomoFormer_Homogenized_Transformer_for_Image_Shadow_Removal_CVPR_2024_paper.pdf)[[Code]](https://github.com/jiexiaou/HomoFormer)
 ### Unsupervised-Deep-Learning Algorithm
 
 * `ICCV2019` Mask-ShadowGAN: Learning to Remove Shadows from Unpaired Data [[Paper]](https://arxiv.org/abs/1903.10683) [[Code]](https://github.com/xw-hu/Mask-ShadowGAN)
