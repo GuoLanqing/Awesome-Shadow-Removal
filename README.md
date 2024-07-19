@@ -150,3 +150,15 @@ Blind Removal of Facial Foreign Shadows  [[Paper]](http://cvlab.cse.msu.edu/pdfs
  * PSNR (Peak Signal-to-Noise Ratio) [[Wiki]](https://en.wikipedia.org/wiki/Peak_signal-to-noise_ratio) [[Matlab Code]](https://www.mathworks.com/help/images/ref/psnr.html) [[Python Code]](https://github.com/aizvorski/video-quality)
  * SSIM (Structural similarity) [[Wiki]](https://en.wikipedia.org/wiki/Structural_similarity) [[Matlab Code]](http://www.cns.nyu.edu/~lcv/ssim/ssim_index.m) [[Python Code]](https://github.com/aizvorski/video-quality/blob/master/ssim.py)
  * NIQE (Naturalness Image Quality Evaluator) [[Web]](http://live.ece.utexas.edu/research/Quality/nrqa.htm) [[Matlab Code]](http://live.ece.utexas.edu/research/Quality/nrqa.htm) [[Python Code]](https://github.com/aizvorski/video-quality/blob/master/niqe.py)
+
+
+## Citation
+If you find this work useful in your research, Please cite the paper as below:
+```bib
+@article{guo2024single,
+  title={Single-Image Shadow Removal Using Deep Learning: A Comprehensive Survey},
+  author={Guo, Laniqng and Wang, Chong and Wang, Yufei and Huang, Siyu and Yang, Wenhan and Kot, Alex C and Wen, Bihan},
+  journal={arXiv preprint arXiv:2407.08865},
+  year={2024}
+}
+```
