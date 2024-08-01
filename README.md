@@ -53,7 +53,7 @@ and Removal [[Paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Yuce
 
 * `AAAI2024` Recasting Regional Lighting for Shadow Removal [[Paper]](https://arxiv.org/pdf/2402.00341.pdf)
 
-* `AAAI2024` DeS3: Adaptive Attention-driven Self and Soft Shadow Removal using ViT Similarity [[Paper]](https://arxiv.org/abs/2211.08089)
+* `AAAI2024` DeS3: Adaptive Attention-driven Self and Soft Shadow Removal using ViT Similarity [[Paper]](https://arxiv.org/abs/2211.08089) [[Code]](https://github.com/jinyeying/DeS3_Deshadow)
 
 * `WACV2024` Latent Feature-Guided Diffusion Models for Shadow Removal [[Paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Mei_Latent_Feature-Guided_Diffusion_Models_for_Shadow_Removal_WACV_2024_paper.pdf) [[Code]](https://github.com/MKFMIKU/Instance-Shadow-Diffusion)
 
