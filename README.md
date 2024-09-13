@@ -59,6 +59,7 @@ and Removal [[Paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Yuce
 
 * `CVPR2024` HomoFormer: Homogenized Transformer for Image Shadow Removal [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_HomoFormer_Homogenized_Transformer_for_Image_Shadow_Removal_CVPR_2024_paper.pdf)[[Code]](https://github.com/jiexiaou/HomoFormer)
 * `Arxiv2024` Diff-Shadow: Global-guided Diffusion Model for Shadow Removal [[Paper]](https://arxiv.org/pdf/2407.16214)
+* `Arxiv2024` SoftShadow: Leveraging Penumbra-Aware Soft Masks for Shadow Removal [[Paper]](https://arxiv.org/pdf/2409.07041)
 ### Unsupervised-Deep-Learning Algorithm
 
 * `ICCV2019` Mask-ShadowGAN: Learning to Remove Shadows from Unpaired Data [[Paper]](https://arxiv.org/abs/1903.10683) [[Code]](https://github.com/xw-hu/Mask-ShadowGAN)
@@ -105,6 +106,7 @@ Blind Removal of Facial Foreign Shadows  [[Paper]](http://cvlab.cse.msu.edu/pdfs
 * `ICCV2021` SmartShadow: Artistic Shadow Drawing Tool for Line Drawings [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_SmartShadow_Artistic_Shadow_Drawing_Tool_for_Line_Drawings_ICCV_2021_paper.pdf)
 
 * `CVPR2024` Shadow Generation for Composite Image Using Diffusion Model [[Paper]](https://arxiv.org/abs/2104.10338) [[Code]](https://github.com/bcmi/Object-Shadow-Generation-Dataset-DESOBAv2)
+
 
 ### Application
 
