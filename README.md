@@ -60,6 +60,8 @@ and Removal [[Paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Yuce
 * `CVPR2024` HomoFormer: Homogenized Transformer for Image Shadow Removal [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_HomoFormer_Homogenized_Transformer_for_Image_Shadow_Removal_CVPR_2024_paper.pdf)[[Code]](https://github.com/jiexiaou/HomoFormer)
 * `Arxiv2024` Diff-Shadow: Global-guided Diffusion Model for Shadow Removal [[Paper]](https://arxiv.org/pdf/2407.16214)
 * `Arxiv2024` SoftShadow: Leveraging Penumbra-Aware Soft Masks for Shadow Removal [[Paper]](https://arxiv.org/pdf/2409.07041)
+* `Arxiv2024` Controlling the Latent Diffusion Model for Generative Image Shadow Removal via Residual Generation [[Paper]](https://arxiv.org/abs/2412.02322)
+* `Arxiv2024` MetaShadow: Object-Centered Shadow Detection, Removal, and Synthesis [[Paper]](https://arxiv.org/abs/2412.02635)
 ### Unsupervised-Deep-Learning Algorithm
 
 * `ICCV2019` Mask-ShadowGAN: Learning to Remove Shadows from Unpaired Data [[Paper]](https://arxiv.org/abs/1903.10683) [[Code]](https://github.com/xw-hu/Mask-ShadowGAN)
