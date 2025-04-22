@@ -58,13 +58,15 @@ and Removal [[Paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Yuce
 * `WACV2024` Latent Feature-Guided Diffusion Models for Shadow Removal [[Paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Mei_Latent_Feature-Guided_Diffusion_Models_for_Shadow_Removal_WACV_2024_paper.pdf) [[Code]](https://github.com/MKFMIKU/Instance-Shadow-Diffusion)
 
 * `CVPR2024` HomoFormer: Homogenized Transformer for Image Shadow Removal [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_HomoFormer_Homogenized_Transformer_for_Image_Shadow_Removal_CVPR_2024_paper.pdf)[[Code]](https://github.com/jiexiaou/HomoFormer)
+* `ACMMM 24` Regional Attention For Shadow Removal [[Paper]](https://arxiv.org/abs/2411.14201)[[Code]](https://github.com/CalcuLuUus/RASM)
 * `AAAI2025` Diff-Shadow: Global-guided Diffusion Model for Shadow Removal [[Paper]](https://arxiv.org/pdf/2407.16214)[[Code]](https://github.com/MonteCarluo/Diff-Shadow)
 * `AAAI2025` OmniSR: Shadow Removal under Direct and Indirect Lighting [[Paper]](https://arxiv.org/abs/2410.01719)
 * `WACV2025` Shadow Removal Refinement via Material-Consistent Shadow Edges [[Paper]](https://arxiv.org/abs/2409.06848) [[Code]](https://github.com/cvlab-stonybrook/ShadowRemovalRefine)
 * `CVPR2025` SoftShadow: Leveraging Penumbra-Aware Soft Masks for Shadow Removal [[Paper]](https://arxiv.org/pdf/2409.07041)
+* `CVPR2025` Detail-Preserving Latent Diffusion for Stable Shadow Removal [[Paper]](https://arxiv.org/pdf/2412.17630)
 * `Arxiv2024` Controlling the Latent Diffusion Model for Generative Image Shadow Removal via Residual Generation [[Paper]](https://arxiv.org/abs/2412.02322)
 * `Arxiv2024` ShadowMamba: State-Space Model with Boundary-Region Selective Scan for Shadow Removal [[Paper]](https://arxiv.org/abs/2411.03260)
-* `Arxiv2024` Detail-Preserving Latent Diffusion for Stable Shadow Removal [[Paper]](https://arxiv.org/pdf/2412.17630)
+* `Arxiv2024` ShadowHack: Hacking Shadows via Luminance-Color Divide and Conquer [[Paper]](https://arxiv.org/abs/2412.02545)
 * `Arxiv2024` MetaShadow: Object-Centered Shadow Detection, Removal, and Synthesis [[Paper]](https://arxiv.org/abs/2412.02635)
 * `Arxiv2025` Prompt-Aware Controllable Shadow Removal [[Paper]](https://arxiv.org/pdf/2501.15043)
 ### Unsupervised-Deep-Learning Algorithm
